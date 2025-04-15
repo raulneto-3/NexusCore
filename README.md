@@ -1,6 +1,6 @@
 # Cyber Kingdom - Nexus Core (NXCR)
 
-![Cyber Kingdom Logo](./assets/icon.jpeg)
+![Cyber Kingdom Logo](./assets/icon.png)
 
 > "Onde Código e Soberania se Fundem"
 
